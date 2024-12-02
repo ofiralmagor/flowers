@@ -1,9 +1,18 @@
-# React + Vite
+# Flowers in Israel Vite App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web application built with **Vite**, **React**, and **JavaScript** that showcases flowers found in Israel. Users can browse through different flower species, view details, filter and sort flowers by categories, and learn more about each flower through a modal.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# flowers
+- Browse through a collection of flowers native to Israel.
+- Filter flowers by categories (e.g., season, type).
+- View detailed information about each flower in a modal.
+- Responsive design to work on both desktop and mobile devices.
+
+## Technologies Used
+
+- **React**: For building user interfaces.
+- **Vite**: A fast build tool for front-end development.
+- **JavaScript**: The main programming language.
+- **CSS**: For styling the components.
+
