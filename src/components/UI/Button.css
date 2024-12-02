@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .flower-button {
     display: block; 
     background: #96b18b; 
@@ -14,4 +15,22 @@
 
 .flower-button:hover {
   color: #687264;
+=======
+.flower-button {
+    display: block; 
+    background: #96b18b; 
+    border: none; 
+    padding: 20px; 
+    border-radius: 10px; 
+    cursor: pointer; 
+    text-align: center; 
+    overflow: hidden; 
+    width: 100%; 
+    max-width: 400px; 
+    margin: 10px; 
+  }
+
+.flower-button:hover {
+  color: #687264;
+>>>>>>> de6cefdb017e4e01fc7456ccfc63753c0091d9f6
 }
