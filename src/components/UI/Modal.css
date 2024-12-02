@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .modal-overlay {
     position: fixed;
     top: 0;
@@ -37,44 +36,4 @@
   
   .close-button:hover {
     background: #0056b3;
-=======
-.modal-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8); 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000; 
-  }
-  
-  
-  .modal-container {
-    background: rgba(255, 255, 255, 0.77);
-    padding: 20px;
-    border-radius: 8px;
-    width: 80%;
-    max-width: 500px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    text-align: right;
-  }
-  
-  
-  .close-button {
-    background: #aac1a1;
-    color: rgb(0, 0, 0);
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 16px;
-    margin-top: 20px;
-  }
-  
-  .close-button:hover {
-    background: #0056b3;
->>>>>>> de6cefdb017e4e01fc7456ccfc63753c0091d9f6
   }
